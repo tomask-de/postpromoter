@@ -4,7 +4,8 @@
   "description": "Steem bid-based voting bot written in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node postpromoter.js"
   },
   "repository": {
     "type": "git",
